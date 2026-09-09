@@ -1,10 +1,12 @@
 <div align="center">
 
-# Farzeen Sajjad
-
-### Software Engineering Student · Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0E,100:1B4D3E&height=200&section=header&text=Farzeen%20Sajjad&fontSize=48&fontColor=2DD4A7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2DD4A7&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+FastAPI;Working+on+AI+agents+and+backend+tools;Currently%3A+FlyRank+internship" alt="typing intro"/>
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2DD4A7?style=for-the-badge&logo=linkedin&logoColor=0B0F0E)](https://www.linkedin.com/in/farzeen-sajjad-82b218353/)
 [![GitHub](https://img.shields.io/badge/GitHub-2DD4A7?style=for-the-badge&logo=github&logoColor=0B0F0E)](https://github.com/FarzeenSajjad)
@@ -59,11 +61,13 @@ I build full-stack applications and backend systems, and lately most of my work 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=FarzeenSajjad&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=2DD4A7&icon_color=2DD4A7&text_color=C9D1D9" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarzeenSajjad&hide_border=true&background=0B0F0E&stroke=2DD4A7&ring=2DD4A7&fire=F5B942&currStreakLabel=2DD4A7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=94A3B8" alt="GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=FarzeenSajjad&hide_border=true&background=0B0F0E&stroke=2DD4A7&ring=2DD4A7&fire=F5B942&currStreakLabel=2DD4A7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=94A3B8" alt="GitHub streak" height="165"/>
 
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4D3E,100:0B0F0E&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
