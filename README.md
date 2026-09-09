@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2DD4A7&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+FastAPI;Working+on+AI+agents+and+backend+tools;Currently%3A+FlyRank+internship" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2DD4A7&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+FastAPI;Working+on+AI+agents+and+backend+tools;Ex-FlyRank+Backend+Intern" alt="typing intro"/>
 
 <br><br>
 
@@ -12,16 +12,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-2DD4A7?style=for-the-badge&logo=github&logoColor=0B0F0E)](https://github.com/FarzeenSajjad)
 [![Email](https://img.shields.io/badge/Email-2DD4A7?style=for-the-badge&logo=gmail&logoColor=0B0F0E)](mailto:farzeensajjad7@gmail.com)
 
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=FarzeenSajjad&color=2DD4A7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/FarzeenSajjad?color=2DD4A7&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=0B0F0E)
+
 </div>
 
 <br>
 
 ## About
 
-I build full-stack applications and backend systems, and lately most of my work is AI-assisted tooling: agents, automation, and small products people can actually use.
-
+- Software Engineering student, full-stack developer
 - Working mainly in Python, FastAPI, Java, and Oracle DB
-- Building backend projects during my FlyRank internship: authentication, PDF report generation, and a web scraper
+- Completed a backend internship at FlyRank, where I built an auth system, a PDF report generator, and a web scraper
 - Documenting projects and progress in public
 
 <br>
@@ -30,7 +34,6 @@ I build full-stack applications and backend systems, and lately most of my work 
 
 - A metered billing service for LLM API usage, tracking tokens and cost per request
 - A set of small AI agents: a job-fit scorer, a candidate screening tool, and a mock interview coach
-- FlyRank internship assignments: an auth system, a PDF report generator, and a polite web scraper
 
 <br>
 
@@ -51,6 +54,17 @@ I build full-stack applications and backend systems, and lately most of my work 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,java,oracle,js,html,css,git,github&theme=dark" alt="tech stack icons" />
+
+</div>
+
+<br>
+
+## Contribution graph
+
+<div align="center">
+
+<!-- snake-animation-placeholder -->
+<img src="https://raw.githubusercontent.com/FarzeenSajjad/FarzeenSajjad/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 </div>
 
